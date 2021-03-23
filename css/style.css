@@ -6,3 +6,11 @@ body{
     background: #E5E5E5;
     font-family: 'Montserrat', sans-serif;
 }
+
+.main-container{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    background: #FFFFFF;
+    margin: 40px auto;
+}
