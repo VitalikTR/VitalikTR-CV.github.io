@@ -14,3 +14,9 @@ body{
     background: #FFFFFF;
     margin: 40px auto;
 }
+
+.sidebar{
+    width: 370px;
+    padding-top: 40px;
+    background-color: #1E2939;
+}
