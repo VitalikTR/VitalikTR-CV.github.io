@@ -32,10 +32,26 @@ body{
     margin-bottom: 50px;
 }
 
-.title-sidebar-block{
-    margin-bottom: 8px;
+.sidebar-block-title{
+    margin-bottom: 10px;
     font-size: 22px;
     font-weight: bold;
     line-height: 27px;
     color: #FFFFFF;
+}
+
+.contacts-block-type{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 7px;
+    color: #FFFFFF;
+}
+
+.contacts-block-link{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565F6B;
+    opacity: 0.5;
 }
