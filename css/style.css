@@ -27,6 +27,8 @@ body{
     margin-bottom: 50px;
 }
 
+/* --------contacts, tech skills, soft skills-------  */
+
 .sidebar-block{
     margin-left: 40px;
     margin-bottom: 50px;
@@ -53,5 +55,20 @@ body{
     font-size: 14px;
     line-height: 24px;
     color: #565F6B;
-    opacity: 0.5;
+    /* opacity: 0.5; */
+}
+
+.sidebar-block-list{
+    list-style: disc;
+    color: #FB6D3A;
+    padding-left: 12px;
+}
+
+.sidebar-block-list-item{
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.sidebar-block-list-item-text{
+    color: #FFFFFF;
 }
