@@ -20,3 +20,8 @@ body{
     padding-top: 40px;
     background-color: #1E2939;
 }
+
+.my-photo{
+    display: block;
+    margin-bottom: 51px;
+}
