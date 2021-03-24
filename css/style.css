@@ -6,6 +6,7 @@ body{
     background: #E5E5E5;
     font-family: 'Montserrat', sans-serif;
 }
+/* -----------------sidebar---------------  */
 
 .main-container{
     display: flex;
@@ -29,4 +30,12 @@ body{
 .sidebar-block{
     margin-left: 40px;
     margin-bottom: 50px;
+}
+
+.title-sidebar-block{
+    margin-bottom: 8px;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 27px;
+    color: #FFFFFF;
 }
