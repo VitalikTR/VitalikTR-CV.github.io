@@ -151,6 +151,44 @@ body{
 
 /* ------ my work experience----- */
 
+.my-work-experience-block{
+    margin: 0 0 20px 0;
+}
+
+.my-work-experience-block:last-child{
+    margin: 0;
+}
+
+.my-work-experience-position{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 0 10px 0;
+}
+
+.my-work-experience-company{
+    color:#FB6D3A;
+}
+
+.my-work-experience-period{
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin: 0 0 10px 0;
+}
+
+.work-experience-list{
+    list-style: disc;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding-left: 17px;
+}
+
+.my-work-expirience-divider{
+    color: black;
+}
+
 
 /* ------ my education----- */
 
